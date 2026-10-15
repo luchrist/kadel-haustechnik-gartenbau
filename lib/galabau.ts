@@ -718,7 +718,7 @@ export const galabau: GalabauConfig = {
     ]
   },
   "recruiting": {
-    "enabled": false,
+    "enabled": true,
     "headline": "Handwerker, Gärtner oder Quereinsteiger?",
     "teaser": "In 60 Sekunden bewerben. Ohne Lebenslauf, ohne Anschreiben.",
     "intro": "Wir suchen Unterstützung für Aufträge in Haus und Garten rund um Walldorf. Erzählen Sie uns kurz, was Sie können, den Rest klären wir am Telefon.",
