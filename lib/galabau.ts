@@ -153,7 +153,7 @@ export const galabau: GalabauConfig = {
           "a": "Ja. Gerade kleinere Aufträge sind ein wichtiger Teil unserer Arbeit. Mit Fotos können wir oft schon vorab einschätzen, was mitgebracht werden muss."
         }
       ],
-      "image": "",
+      "image": "/assets/leistungen/kadel-haustechnik-elektro-messung.webp",
       "estimate": {
         "minPerUnit": 0,
         "maxPerUnit": 0,
@@ -208,7 +208,7 @@ export const galabau: GalabauConfig = {
           "a": "Nennen Sie uns Ihren Wunschbelag direkt in der Anfrage. Wir sagen Ihnen offen, ob wir ihn verlegen und worauf Sie beim Material achten sollten."
         }
       ],
-      "image": "",
+      "image": "/assets/leistungen/kadel-bodenverlegung-heizkoerper.webp",
       "estimate": {
         "minPerUnit": 35,
         "maxPerUnit": 95,
@@ -263,7 +263,7 @@ export const galabau: GalabauConfig = {
           "a": "Die Sprossenmischung „Bienenweide“ ist die günstigere Variante und wächst über die Zeit zu. Flachballenpflanzen mit rund 4 cm Ballen sorgen schneller für ein geschlossenes Bild. Wir beraten Sie gern zu beiden Varianten."
         }
       ],
-      "image": "",
+      "image": "/assets/leistungen/kadel-flachdachbegruenung-sedum.webp",
       "estimate": {
         "minPerUnit": 35,
         "maxPerUnit": 75,
@@ -318,7 +318,7 @@ export const galabau: GalabauConfig = {
           "a": "Ja, genau dafür sind wir da. Wenn alles aus einer Hand kommt, werden Leitungen nur einmal verlegt und die Gewerke greifen sauber ineinander."
         }
       ],
-      "image": "/assets/leistungen/terrassenbau-grossformatplatten-01.webp",
+      "image": "/assets/leistungen/kadel-gartengestaltung-teichgarten.webp",
       "estimate": {
         "minPerUnit": 60,
         "maxPerUnit": 220,
@@ -373,7 +373,7 @@ export const galabau: GalabauConfig = {
           "a": "Ja. Inbetriebnahme im Frühjahr und Entleeren vor dem Frost bieten wir als planbare Wartung an."
         }
       ],
-      "image": "/assets/leistungen/bewaesserung-rasen-und-beete.webp",
+      "image": "/assets/leistungen/kadel-beregnung-rasensprenger.webp",
       "estimate": {
         "minPerUnit": 10,
         "maxPerUnit": 30,
@@ -428,7 +428,7 @@ export const galabau: GalabauConfig = {
           "a": "Das hängt von Anzahl der Leuchten, Kabelweg und Steuerung ab. Nach einer kurzen Besichtigung nennen wir Ihnen einen konkreten Preis."
         }
       ],
-      "image": "/assets/leistungen/gartenneugestaltung-mit-beleuchtung.webp",
+      "image": "/assets/leistungen/kadel-gartenbeleuchtung-abends.webp",
       "estimate": {
         "minPerUnit": 0,
         "maxPerUnit": 0,
@@ -483,7 +483,7 @@ export const galabau: GalabauConfig = {
           "a": "Bei Sichtschutzelementen und Toren in der Regel ja. Bei leichten Zäunen entscheidet der Untergrund. Das klären wir vor Ort."
         }
       ],
-      "image": "/assets/leistungen/zaun-und-sichtschutz.webp",
+      "image": "/assets/leistungen/kadel-gartenzaun-holz.webp",
       "estimate": {
         "minPerUnit": 70,
         "maxPerUnit": 260,
@@ -538,7 +538,7 @@ export const galabau: GalabauConfig = {
           "a": "Ja. Teichberatung gehört ausdrücklich zu unseren Leistungen."
         }
       ],
-      "image": "",
+      "image": "/assets/leistungen/kadel-teich-seerosen.webp",
       "estimate": {
         "minPerUnit": 0,
         "maxPerUnit": 0,
@@ -593,7 +593,7 @@ export const galabau: GalabauConfig = {
           "a": "Reinigung, Prüfung von Messern und Begrenzung sowie die Überwinterung. Den genauen Umfang stimmen wir mit Ihnen ab."
         }
       ],
-      "image": "",
+      "image": "/assets/leistungen/kadel-maehroboter-station.webp",
       "estimate": {
         "minPerUnit": 2,
         "maxPerUnit": 5,
