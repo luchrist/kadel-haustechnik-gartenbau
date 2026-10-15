@@ -17,7 +17,7 @@ export function LegalLayout({
             <img
               src="/assets/logo-mark.png"
               alt={`${company.name} Logo`}
-              className="h-20 w-20 object-contain md:h-28 md:w-28"
+              className="-my-4 h-28 w-28 object-contain md:-my-6 md:h-40 md:w-40"
             />
           </a>
           <a
